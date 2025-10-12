@@ -16,10 +16,9 @@ Chateau’s long-term objective is to broaden access to real-world asset (RWA) v
 
 ### Peg Stability Mechanism
 
-chUSD maintains its USD peg through delta-neutral positioning and active collateral management.\
-Price exposure from backing assets is offset via hedging positions of equivalent notional value, stabilizing the synthetic dollar across varying market conditions.
+chUSD maintains its USD peg through active collateral management.
 
-Chateau employs **no material leverage**. Margin requirements are limited to exchange haircuts on collateral used for hedging.
+Chateau employs **no material leverage**. chUSD is held at qualified institutional custodians. Mint and Redeem operations are real time, enabling free market arbitrage if chUSD breaks peg.
 
 ***
 
@@ -37,8 +36,7 @@ Chateau employs **no material leverage**. Margin requirements are limited to exc
 The Chateau Protocol generates sustainable yield through three primary sources:
 
 1. **Private Credit Returns** — derived from Covenant VC’s professionally managed, collateralized lending portfolio.
-2. **Funding and Basis Spreads** — market-neutral yield generated through delta hedging and derivatives exposure.
-3. **Stable and Staked Asset Rewards** — interest or staking income from collateral held on-chain.
+2. **Stable and Staked Asset Rewards** — interest or staking income from collateral held on-chain.
 
 Returns are variable and denominated in the underlying assets.\
 If sustained negative funding conditions arise, Chateau’s reserve fund absorbs any shortfall, ensuring peg and stability continuity.
@@ -65,7 +63,7 @@ chUSD is exposed to general on-chain and market risks, including:
 3. Market and liquidity volatility
 4. External platform and operational risk
 
-Mitigation measures include diversification across custodians, execution venues, and hedging counterparties, as well as continuous transaction monitoring and collateral transparency.
+Mitigation measures include diversification across custodians, and hedging counterparties, as well as continuous transaction monitoring and collateral transparency.
 
 ***
 
