@@ -33,6 +33,12 @@ Companies as well as government organizations such as the DA and NASA. He comple
 
 ### Portfolio Target Industries
 
+The schUSD portfolio targets profitable sectors with higher than market risk, yet lower than market defaults.
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-10-14 at 15.45.42.png" alt=""><figcaption></figcaption></figure>
+
+
+
 Our portfolios are sector agnostic, with a preference for high-margin areas such as:
 
 * **SaaS Software**: Focus on sector leaders in AdTech and Process Automation.

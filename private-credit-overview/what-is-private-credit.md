@@ -16,6 +16,8 @@ Private credit is used by businesses that are too large for microloans but too s
 * Structured credit from non-bank lenders or investment funds
 
 For tokenized strategies like Chateau’s, this market opens the door to **digitizing real yield** and **bringing institutional strategies on-chain** — with transparency, automation, and broader accessibility.\
+\
+\
 
 
 ***
@@ -40,7 +42,12 @@ Ideal for investors and companies seeking:
 
 ***
 
-#### 📊 APR Ranges by Loan Type (Sample Data)
+#### 📊 APR Ranges by Loan Type and Classes
+
+\
+
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-10-14 at 15.45.42.png" alt=""><figcaption></figcaption></figure>
 
 | **Loan Type**                   | **Approx. APR** |
 | ------------------------------- | --------------- |

@@ -1,6 +1,6 @@
 # schUSD Overview
 
-**schUSD** is the yield-bearing counterpart to **chUSD**, forming the second half of **Chateau’s dual-token system**.
+**schUSD** is the yield-bearing counterpart to **chUSD**, forming the second half of **Chateau’s dual-token system**. schUSD earns yield from Covenant VC's Private Credit portfolio. [For more details, read the Fund Partner section.](../fund-partner-covenant-vc/)
 
 Minted when **chUSD** is deposited into **Chateau’s ERC-4626 vaults**, schUSD provides holders with exposure to institutional private-credit yields and protocol revenue. The amount of schUSD received upon staking is determined by the prevailing **schUSD-to-chUSD ratio**, which reflects cumulative vault performance and accrued yield.
 
