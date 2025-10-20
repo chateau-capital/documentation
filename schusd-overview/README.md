@@ -49,20 +49,16 @@ As underlying assets generate returns, the ratio increases, meaning each schUSD 
   * NAV ↑ → `transferInRewards` adds new chUSD rewards.
   * NAV ↓ → `retrieve` withdraws chUSD to maintain balance.
 * **Reconciliation:** Weekly operations ensure the on-chain schUSD NAV tracks the off-chain fund NAV precisely.
-* \
 
+$$
+{NAV}^{schUSD}_{t}​={NAV}^{schUSD}_{t-1}​+ΔCovenant VC​−{Fees}_{t}​
+$$
 
-```latex
 {% hint style="info" %}
-**Formula:**
-
-schUSD NAV<sub>t</sub> = schUSD NAV<sub>t-1</sub> + Δ<sub>Covenant VC</sub> - Fees<sub>t</sub>
-
-Covenant VC adheres to U.S. GAAP accounting standards. New loans are recorded at face value, late payments are written off entirely and reinstated only upon collection — resulting in a conservative NAV calculation. Despite this prudence, the fund has maintained a 4.6% default rate to date.
+Covenant VC adheres to U.S. GAAP accounting standards. Late payments are written off entirely and reinstated only upon collection — resulting in a conservative NAV calculation. Despite this prudence, the fund has maintained a 4.6% default rate to date.
 {% endhint %}
-```
 
-***
+
 
 ### Transfers & Settlement
 
