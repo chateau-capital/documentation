@@ -9,7 +9,7 @@ description: app.chateau.capital/chUSD/collateral
 | Total Reserves             | $    | The total notional value of reserve assets, comprising funds contributed to mint chUSD and assets deployed into yield generation strategies.             |
 | Funds in Transit           | $    | Reserve funds being wired between financial institutions, custodians and Chateau's bank accounts that is not reflected onchain. Typically settles in T+1 |
 | Protocol Backing Ratio     | %    | % of Total Protocol tokens backed by Total Servers                                                                                                       |
-| schUSD APY                 |      | Annualized Percentage Yield of schUSD vault. Calculated by                                                                                               |
+| schUSD APR                 |      | Annualized Percentage Rateof schUSD vault                                                                                                                |
 | schUSD Sharpe Ratio        |      | Sharpe ratio of Covenant VC's Credit Income Opportunities Fund                                                                                           |
 | chUSD Price                |      | Price of chUSD against USD                                                                                                                               |
 | 30d IRR                    |      | Internal Rate of Return of the previous 30d period                                                                                                       |

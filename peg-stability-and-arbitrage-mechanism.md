@@ -2,7 +2,7 @@
 description: Risk free arbitrage
 ---
 
-# ⚖️ Peg Stability & Arbitrage Mechanism
+# Peg Stability & Arbitrage Mechanism
 
 **chUSD** is designed to maintain a soft peg to the U.S. dollar, supported by real-world asset (RWA) collateral and on-chain mint/redeem mechanisms. To incentivize price stability across markets, chUSD supports cross-market arbitrage by allowing approved participants to profit from short-term price dislocations.
 
