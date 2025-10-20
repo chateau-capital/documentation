@@ -24,10 +24,9 @@ Chateau
 
 ## chUSD
 
-![](.gitbook/assets/bow.png)\
+\
 ![](.gitbook/assets/wob.png)
 
-\
 \
 \
 \
@@ -35,8 +34,8 @@ Chateau
 
 ## schUSD
 
-![](.gitbook/assets/vaultschusd.png)\
-\
+<figure><img src=".gitbook/assets/bow.png" alt=""><figcaption></figcaption></figure>
+
 
 
 ## GIF
