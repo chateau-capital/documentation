@@ -49,28 +49,14 @@ As underlying assets generate returns, the ratio increases, meaning each schUSD 
   * NAV ↑ → `transferInRewards` adds new chUSD rewards.
   * NAV ↓ → `retrieve` withdraws chUSD to maintain balance.
 * **Reconciliation:** Weekly operations ensure the on-chain schUSD NAV tracks the off-chain fund NAV precisely.
-* \
 
+\{{< equation >\}}\
+\text{schUSD NAV}_t = \text{schUSD NAV}_{t-1} + \Delta\_{\text{Covenant VC\}} - \text{Fees}\_{t}\
+\{{< /equation >\}}
 
-```latex
-$$
-\text{schUSD NAV}_t = \text{schUSD NAV}_{t-1} + \Delta_{\text{Covenant VC}} - \text{Fees}_t
-$$
-
-{% hint style="info" %}
-Covenant VC adheres to U.S. GAAP accounting standards. New loans are recorded at face value, late payments are written off entirely and reinstated only upon collection — resulting in a conservative NAV calculation. Despite this prudence, the fund has maintained a 4.6% default rate to date.
-{% endhint %}
-```
-
-```latex
-{% hint style="info" %}
-**Formula:**
-
-schUSD NAV<sub>t</sub> = schUSD NAV<sub>t-1</sub> + Δ<sub>Covenant VC</sub> - Fees<sub>t</sub>
-
-Covenant VC adheres to U.S. GAAP accounting standards. New loans are recorded at face value, late payments are written off entirely and reinstated only upon collection — resulting in a conservative NAV calculation. Despite this prudence, the fund has maintained a 4.6% default rate to date.
-{% endhint %}
-```
+\{% hint style="info" %\}\
+Covenant VC adheres to **U.S. GAAP accounting standards**. New loans are recorded at face value, late payments are written off entirely and reinstated only upon collection — resulting in a conservative NAV calculation. Despite this prudence, the fund has maintained a **4.6 % default rate** to date.\
+\{% endhint %\}
 
 ***
 
@@ -88,7 +74,9 @@ To support stable redemptions:
 
 * **Reward Sources:**
   1. Private-credit interest from **Covenant VC**’s lending portfolio.
-  2. **Vesting:** Rewards **vest linearly over five days**, mitigating front-running risk around yield events.
+  2. Funding & basis spreads from Chateau’s hedging operations.
+  3. Rewards from stable or staked collateral assets.
+* **Vesting:** Rewards **vest linearly over five days**, mitigating front-running risk around yield events.
 * **Reserve Fund:** 5 % of collected protocol fees are allocated quarterly to a reserve fund that safeguards against drawdowns or security incidents.
 
 ***
