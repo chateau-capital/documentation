@@ -6,7 +6,7 @@ description: What is Chateau?
 
 <figure><img src=".gitbook/assets/cht_04.png" alt="" width="375"><figcaption></figcaption></figure>
 
-**Chateau is a tokenized finance DeFi protocol built to democratize access to institutional assets and private markets through stable-value assets and blockchain-native investment vehicles.** \
+**Chateau is a DeFi protocol built to democratize access to institutional assets and private markets through stable-value assets and blockchain-native investment vehicles.** \
 \
 Launched in 2025, Chateau introduces: \
 

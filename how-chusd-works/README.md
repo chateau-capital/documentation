@@ -4,11 +4,12 @@ description: chUSD 101
 
 # How chUSD works
 
-**Chateau USD (“chUSD”)** is a synthetic U.S. dollar, fully backed by on-chain collateral and private credit yields. Built on a fork of **Ethena’s USDe** codebase with minimal modifications, chUSD combines onchain transparency with institutional credit exposure. We extend our appreciation to our partners at [Ethena.fi](https://ethena.fi/) for open-sourcing their architecture.
+**Chateau USD (“chUSD”)** is a synthetic  dollar, fully backed by on-chain collateral and private credit yields. chUSD combines onchain transparency with institutional private credit exposure. \
+
 
 Initially collateralized by **USDC** and **USDT**, chUSD will expand to include additional asset types over time.\
 \
-Through **Chateau Protocol**, holders can stake chUSD into **schUSD**, a yield-accruing instrument powered by **Covenant VC’s** private credit strategies. Covenant VC, a New York–based hedge fund, manages a $500M institutional credit portfolio delivering consistently high-Sharpe returns.
+Through **Chateau Protocol**, holders can stake chUSD into **schUSD**, a yield-accruing instrument powered by **Covenant VC’s** private credit strategies. Covenant VC, a New York–based hedge fund, manages a $500M institutional credit portfolio delivering consistently high-Sharpe returns, [read more here.](../fund-partner-covenant-vc/)
 
 Chateau’s long-term objective is to broaden access to real-world asset (RWA) vaults, providing investors with diversified, institutional-grade opportunities across private markets. For further insight into the private credit landscape, refer to the _Private Credit Overview_ section.
 
