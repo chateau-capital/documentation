@@ -37,10 +37,11 @@ Chateau employs **no material leverage**. chUSD is held at qualified institution
 The Chateau Protocol generates sustainable yield through three primary sources:
 
 1. **Private Credit Returns** — derived from Covenant VC’s professionally managed, collateralized lending portfolio.
-2. **Stable and Staked Asset Rewards** — interest or staking income from collateral held on-chain.
+2. **Stable and Staked Asset Rewards** — interest or staking income from collateral held on-chain, such as USDtb
+3. Market making onchain LPs - through partners such as Arrakis
 
 Returns are variable and denominated in the underlying assets.\
-If sustained negative funding conditions arise, Chateau’s reserve fund absorbs any shortfall, ensuring peg and stability continuity.
+If sustained drawdown conditions arise, Chateau’s reserve fund absorbs any shortfall, ensuring peg and stability continuity.
 
 ***
 
