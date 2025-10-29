@@ -24,10 +24,10 @@
   * [How Liquid is it?](schusd-overview/how-liquid-is-it.md)
   * [Staking Key Function](schusd-overview/staking-key-function.md)
   * [User Security Measures](schusd-overview/user-security-measures.md)
-* [Reserve Fund](reserve-fund.md)
 * [Fund Partner: Covenant VC](fund-partner-covenant-vc/README.md)
   * [Methodology: Where's the yield coming from?](fund-partner-covenant-vc/methodology-wheres-the-yield-coming-from.md)
 * [Peg Stability & Arbitrage Mechanism](peg-stability-and-arbitrage-mechanism.md)
+* [Reserve Fund](reserve-fund.md)
 * [Metrics](metrics.md)
 * [⚠️ Risks & Disclosures](risks-and-disclosures.md)
 
