@@ -4,7 +4,11 @@
 
 **Chateau Protocol** relies on a combination of **on-chain oracles** and **off-chain data streams** from institutional RWA partners to ensure accurate valuation, stable collateralization, and real-time system integrity.
 
-These data feeds are central to Chateau’s **mint, redeem, and staking operations**, as well as to **risk management** across both **chUSD** and **schUSD**.
+These data feeds are central to Chateau’s **mint, redeem, and staking operations**, as well as to **risk management** across both **chUSD** and **schUSD**.\
+\
+Links:\
+[https://legacy.pyth.network/price-feeds/crypto-schusd-chusd-rr](https://legacy.pyth.network/price-feeds/crypto-schusd-chusd-rr)\
+[https://legacy.pyth.network/price-feeds/crypto-nav-chusd-usdt0](https://legacy.pyth.network/price-feeds/crypto-nav-chusd-usdt0)
 
 ***
 
