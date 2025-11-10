@@ -56,4 +56,5 @@ Our portfolios are sector agnostic, with a preference for high-margin areas such
 
 [Strategy presentation: "https://covenant.docsend.com/view/5jq2i7yeq75xsvrf"](https://covenant.docsend.com/view/5jq2i7yeq75xsvrf)\
 \
-[SEC Filings: "https://www.sec.gov/Archives/edgar/data/1980744/000198074423000001/xslFormDX01/primary\_doc.xml"](https://www.sec.gov/Archives/edgar/data/1980744/000198074423000001/xslFormDX01/primary_doc.xml)
+[SEC Filings: "https://www.sec.gov/Archives/edgar/data/1980744/000198074423000001/xslFormDX01/primary\_doc.xml"](https://www.sec.gov/Archives/edgar/data/1980744/000198074423000001/xslFormDX01/primary_doc.xml)\
+[http://edgar.secdatabase.com/1276/198074423000002/filing-main.htm](http://edgar.secdatabase.com/1276/198074423000002/filing-main.htm)
