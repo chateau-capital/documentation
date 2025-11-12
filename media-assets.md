@@ -42,7 +42,9 @@ Chateau
 
 <figure><img src=".gitbook/assets/chateaufinal.gif" alt=""><figcaption></figcaption></figure>
 
-##
+## Macarons
+
+<figure><img src=".gitbook/assets/macaron.gif" alt=""><figcaption></figcaption></figure>
 
 ## Media Inquiries
 
